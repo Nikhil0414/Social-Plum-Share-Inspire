@@ -2,6 +2,8 @@
 
 Google Play Store link: https://play.google.com/store/apps/details?id=com.nikhil.anew
 
+<img width="1155" alt="Screenshot 2023-07-11 at 7 54 09 PM" src="https://github.com/Nikhil0414/Social-Plum-Share-Inspire/assets/58047550/a9baf8ba-d857-41bf-85e9-07ca055a258b">
+
 Social Plum: Share & Inspire!
 
 Social Plum is a captivating and user-friendly app that combines the nostalgic charm of Polaroid pictures with the power of blogging, a vibrant community, and engaging questionnaires. With its seamless interface and plethora of features, Social Plum is the go-to app for those seeking a beautiful and immersive platform to share their cherished memories.
