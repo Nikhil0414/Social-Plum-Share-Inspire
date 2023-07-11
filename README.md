@@ -31,6 +31,9 @@ To further foster creativity and connection, Social Plum features thought-provok
 
 With Social Plum, privacy and security are paramount. The app employs advanced encryption techniques to ensure that your memories are safeguarded and remain solely in your possession. Additionally other users can only see your name, username and profile picture all other details are secured and kept only to yourself. For higher security of data we do not collaborate or connect we any third party data sharing apps.
 
+![Yellow Gradient Background Minimal UI Mockup Smartphone Facebook Post for Mobile Application (1)](https://github.com/Nikhil0414/Social-Plum-Share-Inspire/assets/58047550/70352930-8060-4162-aa18-d2845f2779bd)
+
+
 In conclusion, Social Plum is a visually stunning and versatile app that combines the charm of Polaroid pictures, the creativity of blogging, the vibrancy of a community, and the engagement of thought-provoking questionnaires. Whether you're an avid storyteller, a memory enthusiast, or someone who appreciates the beauty of life's fleeting moments, Social Plum is the perfect platform to capture, share, and connect through your unique experiences. Download Social Plum today and embark on a journey of creativity, inspiration, and lasting connections. 
 
 Contact us SocialPlum2@gmail.com
