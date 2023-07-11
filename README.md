@@ -1,4 +1,4 @@
-# Social-Plum---Share-&-Inspire
+# Social Plum: Share & Inspire
 
 Google Play Store link: https://play.google.com/store/apps/details?id=com.nikhil.anew
 
